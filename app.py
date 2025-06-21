@@ -6,6 +6,8 @@ import pandas as pd
 from mlProject.pipeline.prediction import PredictionPipeline
 
 
+
+
 app = Flask(__name__)
 
 @app.route('/', methods = ['GET'])

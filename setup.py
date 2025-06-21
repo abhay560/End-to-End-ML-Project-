@@ -4,12 +4,12 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "0.0.0"
+__version__ = "0.1.0"
 
-REPO_NAME = "End-to-end-ML-Project-"
+REPO_NAME = "Wine-Quality-Prediction-Model"
 AUTHOR_USER_NAME = "abhaytyagi"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "kakuvats666@gmail.com"
+AUTHOR_EMAIL = "abhayvats666@gmail.com"
 
 
 setuptools.setup(

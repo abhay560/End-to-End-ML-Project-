@@ -1,5 +1,5 @@
 from mlProject.constants import *
-from mlProject.entity.config_entity import DataIngestionConfig, DataTransformationConfig, DataValidationConfig, ModelEvaluationConfig, ModelTrainerConfig
+from mlProject.entity.config_entity import  DataIngestionConfig, DataTransformationConfig, DataValidationConfig, ModelEvaluationConfig, ModelTrainerConfig
 from mlProject.utils.common import read_yaml, create_directories
 
 class ConfigurationManager:
